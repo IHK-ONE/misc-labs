@@ -1,1 +1,1 @@
-{"title": "PNG", "description": "test", "flag": "test"}
+{"title": "图片隐写", "description": "EXIF 隐写，请手动修改一个 EXIF 属性，写入任意信息，并解出该题 flag", "flag": "flag{level-1}"}

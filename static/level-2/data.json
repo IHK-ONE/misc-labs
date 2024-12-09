@@ -1,1 +1,1 @@
-{"title": "PNG", "description": "test", "flag": "test"}
+{"title": "图片隐写", "description": "二进制隐写文字，请参考文章中隐写原理，手动给一个图片中部与尾部添加文字，并分别使用 010Editor 以及 strings 工具找到该题 flag", "flag": "flag{level-2}"}

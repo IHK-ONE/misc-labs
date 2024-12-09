@@ -1,0 +1,1 @@
+{"title": "图片隐写", "description": "LSB文件隐写，请参考文章隐写原理，将 LSB文字隐写 修改为隐写到任意通道，并手动使用 脚本 zsteg stegsolve 解出该题 flag", "flag": "flag{level-8}"}
